@@ -5,7 +5,7 @@ A violent remake of the classic "Hunt the Wumpus" game in Common Lisp, adapted f
 
 ## Prerequisites
 
-You have `sbcl` installed.
+You have `sbcl` and [Graphviz](https://www.graphviz.org/) installed.
 
 ## Compiling
 
