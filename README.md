@@ -21,5 +21,11 @@ sbcl --script main.lisp
 
 ### How to Play
 
+#### Commands
 * `walk x` Go to nearby location `x`.
 * `charge x` Go to nearby location `x` and immediately pull the trigger.  You only have one bullet.  If you kill the Wumpus, you win.  Otherwise, it's game over.
+
+#### Tips
+* Refresh `known-city.png` to update the map.
+* Cops will also kill you.
+* Glow Worm Gang will randomly teleport you.
