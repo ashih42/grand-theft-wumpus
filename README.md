@@ -19,13 +19,13 @@ sbcl --script main.lisp
 ./grand-theft-wumpus
 ```
 
-### How to Play
+## How to Play
 
-#### Commands
+### Commands
 * `walk x` Go to nearby location `x`.
 * `charge x` Go to nearby location `x` and immediately pull the trigger.  You only have one bullet.  If you kill the Wumpus, you win.  Otherwise, it's game over.
 
-#### Tips
+### Tips
 * Refresh `known-city.png` to update the map.
 * Cops will also kill you.
 * Glow Worm Gang will randomly teleport you.
